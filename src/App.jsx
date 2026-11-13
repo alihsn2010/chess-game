@@ -197,7 +197,7 @@ export default function App() {
         </div>}
       </section>
 
-      <footer><span>♞ Chess Starter</span><span>Learn at your own pace · Developed by Syed Copyright © 2026</span></footer>
+      <footer><span>♞ Chess Starter</span><span>Learn at your own pace · Developed by Syed Copyright © 2027</span></footer>
     </main>
   );
 }
