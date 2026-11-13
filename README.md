@@ -31,3 +31,6 @@ The production site is generated in `dist/`.
 
 - Free Play is local two-player mode (White and Black take turns on the same board); it does not include a computer opponent.
 - In Guided Lesson, making a move other than the suggested move switches to Free Play so beginners can experiment without being blocked.
+=======
+# chess-game
+
