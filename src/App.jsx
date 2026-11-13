@@ -137,7 +137,7 @@ export default function App() {
       </header>
 
       <section className="intro">
-        <div><p className="eyebrow">YOUR FIRST CHESS GAME</p><h2>Understand the pieces. Make a move. Have fun.</h2>
+        <div><p className="eyebrow">YOUR FIRST CHESS GAME</p><h2>Understand the pieces. Make a move. Have fun and Enjoy</h2>
           <p>No experience needed. Follow the short guided lesson, or switch to Free Play whenever you're ready.</p></div>
         <div className="intro-icon">♟</div>
       </section>
@@ -197,7 +197,7 @@ export default function App() {
         </div>}
       </section>
 
-      <footer><span>♞ Chess Starter</span><span>Learn at your own pace · Every move is legal-checked</span></footer>
+      <footer><span>♞ Chess Starter</span><span>Learn at your own pace · Developed by Syed Copyright © 2026</span></footer>
     </main>
   );
 }
